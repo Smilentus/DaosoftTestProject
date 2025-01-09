@@ -55,5 +55,10 @@ namespace Dimasyechka
                 _playerStateMachine.SetState(_controller.GroundedState);
             }
         }
+
+        public override void OnCollisionEnter2D(Collision2D collision)
+        {
+            _controller.DefaultCollisions(collision);
+        }
     }
 }
