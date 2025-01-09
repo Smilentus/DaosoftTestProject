@@ -86,6 +86,7 @@
     <Compile Include="Assets\Code\Character\PlayerEffectsEmitter.cs" />
     <Compile Include="Assets\Code\Character\States\FallingState.cs" />
     <Compile Include="Assets\Code\Input\InputHandler.cs" />
+    <Compile Include="Assets\Code\Utilities\ApplicationExitHandler.cs" />
     <Compile Include="Assets\Code\Character\Tuner\RuntimePlayerTuner.cs" />
     <Compile Include="Assets\Code\Level\PlatformBehaviour.cs" />
     <Compile Include="Assets\Code\Camera\FollowingTargetCamera.cs" />
