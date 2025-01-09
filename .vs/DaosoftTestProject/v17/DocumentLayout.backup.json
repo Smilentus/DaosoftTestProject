@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\Unity\\Home\\DaosoftTestProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{419C2559-9791-BD99-5F69-E415DAB7F626}|Assembly-CSharp.csproj|d:\\projects\\unity\\home\\daosofttestproject\\assets\\code\\character\\playablecharacterlevelheightlimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419C2559-9791-BD99-5F69-E415DAB7F626}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\character\\playablecharacterlevelheightlimiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{419C2559-9791-BD99-5F69-E415DAB7F626}|Assembly-CSharp.csproj|d:\\projects\\unity\\home\\daosofttestproject\\assets\\code\\character\\states\\jumppreparingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{419C2559-9791-BD99-5F69-E415DAB7F626}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\character\\states\\jumppreparingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayableCharacterController.cs",
               "DocumentMoniker": "D:\\Projects\\Unity\\Home\\DaosoftTestProject\\Assets\\Code\\Character\\PlayableCharacterController.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\Character\\PlayableCharacterController.cs",
@@ -36,16 +40,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "JumpPreparingState.cs",
               "DocumentMoniker": "D:\\Projects\\Unity\\Home\\DaosoftTestProject\\Assets\\Code\\Character\\States\\JumpPreparingState.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\Character\\States\\JumpPreparingState.cs",
               "ToolTip": "D:\\Projects\\Unity\\Home\\DaosoftTestProject\\Assets\\Code\\Character\\States\\JumpPreparingState.cs",
               "RelativeToolTip": "Assets\\Code\\Character\\States\\JumpPreparingState.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAASwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIA1wBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T11:14:50.292Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayableCharacterLevelHeightLimiter.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\Home\\DaosoftTestProject\\Assets\\Code\\Character\\PlayableCharacterLevelHeightLimiter.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Character\\PlayableCharacterLevelHeightLimiter.cs",
+              "ToolTip": "D:\\Projects\\Unity\\Home\\DaosoftTestProject\\Assets\\Code\\Character\\PlayableCharacterLevelHeightLimiter.cs",
+              "RelativeToolTip": "Assets\\Code\\Character\\PlayableCharacterLevelHeightLimiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:19:25.571Z",
               "EditorCaption": ""
             }
           ]
